@@ -49,9 +49,9 @@ sudo chmod +x ./../src/pgi_make.sh
 ./../bin/main.exe
 ```
 ## Results
-#### dark matter halo + damping: 33%
-##### particles: 112,640
-##### realization time: ~29 minutes
+##### - dark matter halo + damping: 33%
+##### - particles: 112,640
+##### - realization time: ~29 minutes
 ![Alt Text](https://github.com/alexshi0000/OpenACC-PGI-NBODY/blob/master/test/galaxyevo1.gif)
 
 ## Specifications
