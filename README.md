@@ -49,7 +49,8 @@ sudo chmod +x ./../src/pgi_make.sh
 ./../bin/main.exe
 ```
 ## Gallery
-### two very different test runs. dark matter and damping params were tweaked for two results
+#### dark matter halo + damping: 33%
 ![Alt Text](https://github.com/alexshi0000/OpenACC-PGI-NBODY/blob/master/test/galaxyevo1.gif)
+#### dark matter halo + damping: 20%
 ![Alt Text](https://github.com/alexshi0000/OpenACC-PGI-NBODY/blob/master/test/galaxyevo2.gif)
 #### total time to realize: ~10 minutes
