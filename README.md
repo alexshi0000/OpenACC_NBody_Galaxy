@@ -49,8 +49,16 @@ sudo chmod +x ./../src/pgi_make.sh
 ./../bin/main.exe
 ```
 ## Gallery
-#### dark matter halo + damping: 33%, particles: 112,640
+#### dark matter halo + damping: 33%    particles: 112,640    realization time: ~29 minutes
 ![Alt Text](https://github.com/alexshi0000/OpenACC-PGI-NBODY/blob/master/test/galaxyevo1.gif)
-#### dark matter halo + damping: 20%, particles: 64,917
+#### dark matter halo + damping: 20%    particles: 64,917     realization time: ~10 minutes
 ![Alt Text](https://github.com/alexshi0000/OpenACC-PGI-NBODY/blob/master/test/galaxyevo2.gif)
-#### total time to realize: ~10 minutes
+
+## Specifications
+
+#### CPU
+AMD Phenom II X6 1090T 3.2GHz Six Core (HDT)
+#### GP GPU
+ASUS ROG Strix GeForce® GTX 1060, core clock @ 2133mhz, mem clock @ 9200mhz
+#### RAM
+8 gb 1666mhz kingston hyper x blu
