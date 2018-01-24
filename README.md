@@ -1,1 +1,1 @@
-# N-2-OpenACC-Demonstation
+# OpenACC-Demonstation-Brute-Force
