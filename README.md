@@ -51,4 +51,4 @@ sudo chmod +x ./../src/pgi_make.sh
 ## Gallery
 ![Alt Text](https://github.com/alexshi0000/OpenACC-PGI-NBODY/blob/master/test/galaxyevo1.gif)
 ![Alt Text](https://github.com/alexshi0000/OpenACC-PGI-NBODY/blob/master/test/galaxyevo2.gif)
-![Alt Text](https://apod.nasa.gov/apod/image/1506/m101_HubbleSubaru_960.jpg)
+#### total time to realize: ~10 minutes
