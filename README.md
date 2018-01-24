@@ -5,7 +5,7 @@
 git clone https://github.com/alexshi0000/OpenACC-PGI-NBODY/edit/master/README.md
 ```
 ## Prerequisites
-#### make sure you have a NVIDIA gpu. Recommended: NVIDIA Tesla k20 or GTX 780Ti. Update your gpu drivers.
+#### make sure you have a NVIDIA gpu. Recommended: NVIDIA Tesla k20, GTX 780Ti or higher. Update your gpu drivers.
 ```
 sudo apt-get purge nvidia* 
 sudo add-apt-repository ppa:graphics-drivers
