@@ -1,1 +1,1 @@
-# OpenACC-PGI-Demos
+# OpenACC-PGI-NBODY
