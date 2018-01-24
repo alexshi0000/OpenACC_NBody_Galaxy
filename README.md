@@ -24,7 +24,7 @@ install PGI or CRAY compiler
 
 https://developer.nvidia.com/openacc-toolkit
 
-Install the latest version of CUDA here
+how to install CUDA
 
 http://developer.download.nvidia.com/compute/cuda/7.5/Prod/docs/sidebar/CUDA_Installation_Guide_Linux.pdf
 
