@@ -1,1 +1,1 @@
-# OpenACC-Demonstation-Brute-Force
+# OpenACC-PGI-Demos
