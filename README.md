@@ -27,7 +27,6 @@ http://developer.download.nvidia.com/compute/cuda/7.5/Prod/docs/sidebar/CUDA_Ins
 
 ## Installation
 #### using make
-#### install make
 ```
 sudo apt install make
 ```
@@ -35,7 +34,7 @@ sudo apt install make
 ```
 ./../src/make pgi
 ```
-or
+##### or
 ```
 sudo chmod +x ./../src/pgi_make.sh
 ./../src/pgi_make.sh
@@ -49,3 +48,9 @@ sudo chmod +x ./../src/pgi_make.sh
 ```
 ./../bin/main.exe
 ```
+## Gallery
+![Alt Text](https://github.com/alexshi0000/OpenACC-PGI-NBODY/blob/master/test/galaxyevo1.gif)
+
+#### relatively small dark matter to disk mass ratio. keplarian orbits, c = 0.1 for disk
+
+![Alt Text](https://github.com/alexshi0000/OpenACC-PGI-NBODY/blob/master/test/galaxyevo2.gif)
