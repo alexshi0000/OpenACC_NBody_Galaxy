@@ -57,7 +57,7 @@ sudo chmod +x ./../src/pgi_make.sh
 ## Specifications
 
 #### CPU
-AMD Phenom II X6 1090T 3.2GHz Six Core (HDT)
+AMD Phenom II X6 1090T @ 3.6GHz Six Core (HDT)
 #### GP GPU
 ASUS ROG Strix GeForce® GTX 1060, core clock @ 2133mhz, mem clock @ 9200mhz
 #### RAM
