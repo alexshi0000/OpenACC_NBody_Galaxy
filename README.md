@@ -21,9 +21,10 @@ install glut
 sudo apt-get install freeglut3 freeglut3-dev
 ```
 install PGI or CRAY compiler
-https://developer.nvidia.com/openacc-toolkit
 
+https://developer.nvidia.com/openacc-toolkit
 Install the latest version of CUDA here
+
 http://developer.download.nvidia.com/compute/cuda/7.5/Prod/docs/sidebar/CUDA_Installation_Guide_Linux.pdf
 
 ## Installation
