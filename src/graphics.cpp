@@ -1,5 +1,5 @@
-#include "../include/graphics.hpp"
-#include "../include/cun_acc.hpp"
+#include "../include/graphics.h"
+#include "../include/cun_acc.h"
 
 bool begin_r = 1;
 

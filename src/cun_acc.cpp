@@ -1,4 +1,4 @@
-#include "../include/cun_acc.hpp"
+#include "../include/cun_acc.h"
 
 float RADIUS = AU*120;
 float v[N][3], d[N][3], m[N];
