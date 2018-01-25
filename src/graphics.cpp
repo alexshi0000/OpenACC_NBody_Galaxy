@@ -15,13 +15,13 @@ void display_func()
 		y1 = d[i][1] / (RADIUS*1.5);
 		z1 = d[i][2] / (RADIUS*1.5);
 			//divided by camera dimensions
-		glColor4f(0.8f, 0.8f, 1.0f, 0.11f);
+		glColor4f(0.7f, 0.75f, 1.0f, 0.11f);
 		if(m[i] > 1e28)
 			glColor4f(0.4f, 0.4f, 1.0f, 0.0f);
 
 		glPushMatrix ();
 	        glTranslatef    (x1, y1, z1);
-	        glutSolidSphere (0.002, 5, 5);
+	        glutSolidSphere (0.003, 5, 5);
 	        glutSolidSphere (0.005, 5, 5);
    		glPopMatrix ();
     }

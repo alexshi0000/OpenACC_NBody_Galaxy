@@ -71,7 +71,7 @@ void init()
 	set_ptcl(0, 1e33, 0,0,0, 0,0,0);
 	for(int i = 1; i < N; i++)
 	{
-		if(i == 28500)
+		if(i == 5000)
 		{
 			c = 1.0;
 			mass = 1e30;

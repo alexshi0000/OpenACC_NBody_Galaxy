@@ -11,8 +11,8 @@
 #define PI (3.14159265359)
 #define LY (9.461e+15)
 
-#define TS (0.8e6)
-#define N  (36500)
+#define TS (2.8e6)
+#define N  (8500)
 
 extern float RADIUS;
 extern float v[N][3], d[N][3], m[N];
