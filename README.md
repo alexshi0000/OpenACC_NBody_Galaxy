@@ -53,7 +53,7 @@ sudo chmod +x ./../src/pgi_make.sh
  - realization time: ~29 minutes
  
 ![Alt Text](https://github.com/alexshi0000/OpenACC-PGI-NBODY/blob/master/test/galaxyevo1.gif)
-![Alt_Text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/M101_hires_STScI-PRC2006-10a.jpg/1280px-M101_hires_STScI-PRC2006-10a.jpg =800x800)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/M101_hires_STScI-PRC2006-10a.jpg/1280px-M101_hires_STScI-PRC2006-10a.jpg" align="left" height="48" width="48" ></a>
 
 ## Specifications
 
