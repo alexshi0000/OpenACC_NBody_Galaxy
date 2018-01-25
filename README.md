@@ -1,4 +1,5 @@
 # OpenACC-PGI-NBODY
+brute force code suitable for simulating galaxies and clusters. accelerated with OpenACC directives. 
 ## Getting Started
 #### clone this repository on to your machine
 ```
