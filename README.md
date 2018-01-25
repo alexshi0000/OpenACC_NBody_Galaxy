@@ -48,6 +48,15 @@ sudo chmod +x ./../src/pgi_make.sh
 ```
 ./../bin/main.exe
 ```
+## Hardware Specifications
+
+#### CPU
+AMD Phenom II X6 1090T @ 3.6GHz Six Core (HDT)
+#### GP GPU
+ASUS ROG Strix GeForce® GTX 1060, core clock @ 2133mhz, mem clock @ 9200mhz
+#### RAM
+8 gb 1666mhz kingston hyper x blu
+
 ## Results
  - particles: 112,640 
  - realization time: ~ 29 minutes
@@ -58,12 +67,3 @@ sudo chmod +x ./../src/pgi_make.sh
 - realization time: ~ 9 minutes
 
 ![Alt Text](https://github.com/alexshi0000/OpenACC-PGI-NBODY/blob/master/test/galaxyevo3.gif)
-
-## Hardware Specifications
-
-#### CPU
-AMD Phenom II X6 1090T @ 3.6GHz Six Core (HDT)
-#### GP GPU
-ASUS ROG Strix GeForce® GTX 1060, core clock @ 2133mhz, mem clock @ 9200mhz
-#### RAM
-8 gb 1666mhz kingston hyper x blu
