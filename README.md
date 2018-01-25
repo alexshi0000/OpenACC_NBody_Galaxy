@@ -5,14 +5,14 @@
 git clone https://github.com/alexshi0000/OpenACC-PGI-NBODY/edit/master/README.md
 ```
 ## Prerequisites
-#### make sure you have a NVIDIA gpu. recommended: NVIDIA Tesla k20 or higher. update your gpu drivers.
+#### NVIDIA gpu. recommended: NVIDIA Tesla k20 or higher. update drivers
 ```
 sudo apt-get purge nvidia* 
 sudo add-apt-repository ppa:graphics-drivers
 sudo apt-get update
 sudo apt-get install nvidia-370 (or better)
 ```
-#### shutdown your computer and check your new driver
+#### shutdown and check for new driver using smi. install glut
 ```
 nvidia-smi
 sudo apt-get install freeglut3 freeglut3-dev
@@ -21,7 +21,7 @@ sudo apt-get install freeglut3 freeglut3-dev
 
 https://developer.nvidia.com/openacc-toolkit
 
-#### how to install CUDA
+#### how to install CUDA (version 6 and up)
 
 http://developer.download.nvidia.com/compute/cuda/7.5/Prod/docs/sidebar/CUDA_Installation_Guide_Linux.pdf
 
