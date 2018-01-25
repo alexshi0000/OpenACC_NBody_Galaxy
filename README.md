@@ -1,5 +1,5 @@
 # OpenACC-PGI-NBODY
-brute force code suitable for simulating galaxies and clusters. accelerated with OpenACC directives. 
+brute force algorithm suitable for simulating and visualizing spiral galaxy evolution. accelerated with OpenACC directives targeting NVIDIA GP GPUs.
 ## Getting Started
 #### clone this repository on to your machine
 ```
