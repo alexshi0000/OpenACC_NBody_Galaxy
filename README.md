@@ -54,9 +54,7 @@ sudo chmod +x ./../src/pgi_make.sh
  
 ![Alt Text](https://github.com/alexshi0000/OpenACC-PGI-NBODY/blob/master/test/galaxyevo1.gif)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/M101_hires_STScI-PRC2006-10a.jpg/1280px-M101_hires_STScI-PRC2006-10a.jpg" align="left" height="800" width="800" ></a>
-
-## Specifications
+## Hardware Specifications
 
 #### CPU
 AMD Phenom II X6 1090T @ 3.6GHz Six Core (HDT)
@@ -64,3 +62,5 @@ AMD Phenom II X6 1090T @ 3.6GHz Six Core (HDT)
 ASUS ROG Strix GeForce® GTX 1060, core clock @ 2133mhz, mem clock @ 9200mhz
 #### RAM
 8 gb 1666mhz kingston hyper x blu
+
+![Alt Text](https://github.com/alexshi0000/OpenACC-PGI-NBODY/blob/master/test/galaxyevo2.gif)
