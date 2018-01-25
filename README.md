@@ -2,7 +2,7 @@
 ## Getting Started
 #### clone this repository on to your machine
 ```
-git clone https://github.com/alexshi0000/OpenACC-PGI-NBODY/edit/master/README.md
+git clone https://github.com/alexshi0000/OpenACC-PGI-NBODY
 ```
 ## Prerequisites
 #### NVIDIA gpu. recommended: NVIDIA Tesla k20 or higher. update drivers
