@@ -1,5 +1,5 @@
-#include "../include/cun_acc.hpp"
-#include "../include/graphics.hpp"
+#include "../include/cun_acc.h"
+#include "../include/graphics.h"
 using namespace std;
 
 int main(int argc, char **argv)
