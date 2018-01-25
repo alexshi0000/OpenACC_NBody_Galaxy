@@ -34,7 +34,7 @@ sudo apt install make
 ```
 ./../src/make pgi
 ```
-##### or
+#### or
 ```
 sudo chmod +x ./../src/pgi_make.sh
 ./../src/pgi_make.sh
