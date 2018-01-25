@@ -49,13 +49,12 @@ sudo chmod +x ./../src/pgi_make.sh
 ./../bin/main.exe
 ```
 ## Results
- - particles: 112,640 - realization time: ~ 29 minutes
- 
+##### - particles: 112,640 
+##### - realization time: ~ 29 minutes
 ![Alt Text](https://github.com/alexshi0000/OpenACC-PGI-NBODY/blob/master/test/galaxyevo1.gif) 
 
- - particles: 33,693
- - realization time: ~ 9 minutes
-
+##### - particles: 33,693
+##### - realization time: ~ 9 minutes
 ![Alt Text](https://github.com/alexshi0000/OpenACC-PGI-NBODY/blob/master/test/galaxyevo2.gif)
 
 ## Hardware Specifications
