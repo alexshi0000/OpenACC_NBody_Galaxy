@@ -19,13 +19,13 @@ function build() {
 	LIB=" -lGL -lGLU -lglut "										#libraries to be linked
 	OBJECTFILES=""													#object files created
 	BINARIES=("main" "main.exe")									#name of binaries to be created, one for linux, one for windows
-	for ENTRY in *.cpp		
+	for ENTRY in *.cpp
 	do
 		pgc++ $CPPVERSION -c $ENTRY $LIB							#compile src to object file
 	done
-	for ENTRY in *.o									
+	for ENTRY in *.o
 	do
-		OBJECTFILES=$OBJECTFILES" "$ENTRY						
+		OBJECTFILES=$OBJECTFILES" "$ENTRY
 		mv -f $ENTRY $BUILDDIR										#move object files to build dir from source dir
 	done
 	cd $BUILDDIR													#change dir to build dir

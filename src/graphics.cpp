@@ -7,11 +7,10 @@ void display_func()
 {
 	glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 	glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
-    glEnable(GL_BLEND);
-	for(int i = 0; i < N; i++)
-	{
-    	float x1,y1,z1;
-		x1 = d[i][0] / (RADIUS*1.5);	
+    	glEnable(GL_BLEND);
+	for (int i = 0; i < N; i++) {
+    		float x1,y1,z1;
+		x1 = d[i][0] / (RADIUS*1.5);
 		y1 = d[i][1] / (RADIUS*1.5);
 		z1 = d[i][2] / (RADIUS*1.5);
 			//divided by camera dimensions
@@ -24,15 +23,14 @@ void display_func()
 	        glutSolidSphere (0.003, 5, 5);
 	        glutSolidSphere (0.005, 5, 5);
    		glPopMatrix ();
-    }
-    update();
+    	}
+    	update();
 	glutSwapBuffers();
-    glutPostRedisplay();
+    	glutPostRedisplay();
 }
 
 void reshape_func(GLint w, GLint h){
-	if(begin_r)
-	{
+	if (begin_r) {
 		GLfloat width = GLfloat(w);
 		GLfloat height = GLfloat(h);
 		glViewport(0, 0, width, height);
@@ -44,8 +42,7 @@ void reshape_func(GLint w, GLint h){
 		glutFullScreen();
 		begin_r = 0;
 	}
-	else
-	{
+	else {
 		glViewport(0, 0, w, h);
 	}
 }
