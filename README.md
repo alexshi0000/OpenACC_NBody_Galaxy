@@ -1,4 +1,4 @@
-# OpenACC-Galaxy-Evolution-Demonstration
+# OpenACC Galaxy Evolution Demonstration N^2
 brute force algorithm suitable for simulating and visualizing spiral galaxy evolution. accelerated with OpenACC directives targeting NVIDIA GP GPUs.
 ## Getting Started
 #### clone this repository on to your machine
