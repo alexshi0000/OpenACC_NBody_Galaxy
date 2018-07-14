@@ -61,7 +61,7 @@ sudo chmod +x ./../src/pgi_make.sh
 
 ![Alt Text](https://github.com/alexshi0000/OpenACC-PGI-NBODY/blob/master/test/galaxyevo3.gif)
 
-## Hardware Specifications
+## My Hardware Specifications
 
 #### CPU
 AMD Phenom II X6 1090T @ 3.6GHz Six Core (HDT)
