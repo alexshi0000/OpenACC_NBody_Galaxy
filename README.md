@@ -1,5 +1,5 @@
 # OpenACC NBody Galaxy
-brute force algorithm suitable for simulating and visualizing spiral galaxy evolution. accelerated with OpenACC directives targeting NVIDIA GP GPUs.
+brute force algorithm suitable for simulating and visualizing spiral galaxy evolution. accelerated with OpenACC directives targeting NVIDIA GP GPUs. originally started this project as a barneshut simulation: https://github.com/alexshi0000/Astrocom
 ## Getting Started
 #### clone this repository on to your machine
 ```
