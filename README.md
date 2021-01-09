@@ -1,5 +1,17 @@
 # OpenACC NBody Galaxy
 brute force algorithm suitable for simulating and visualizing spiral galaxy evolution. accelerated with OpenACC directives targeting NVIDIA GP GPUs. originally started this project as a barneshut simulation: https://github.com/alexshi0000/Astrocom
+
+## Demo
+ - particles: 112,640 
+ - realization time: ~ 29 minutes
+ 
+![Alt Text](https://github.com/alexshi0000/OpenACC-PGI-NBODY/blob/master/test/galaxyevo1.gif) 
+
+- particles: 33,693
+- realization time: ~ 9 minutes
+
+![Alt Text](https://github.com/alexshi0000/OpenACC-PGI-NBODY/blob/master/test/galaxyevo3.gif)
+
 ## Getting Started
 #### clone this repository on to your machine
 ```
@@ -49,14 +61,3 @@ sudo chmod +x ./../src/pgi_make.sh
 ```
 ./../bin/main.exe
 ```
-
-## Results
- - particles: 112,640 
- - realization time: ~ 29 minutes
- 
-![Alt Text](https://github.com/alexshi0000/OpenACC-PGI-NBODY/blob/master/test/galaxyevo1.gif) 
-
-- particles: 33,693
-- realization time: ~ 9 minutes
-
-![Alt Text](https://github.com/alexshi0000/OpenACC-PGI-NBODY/blob/master/test/galaxyevo3.gif)
